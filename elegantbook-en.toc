@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Survey}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Students Age}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Students Age}{2}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}The Normal Distribution}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Normal Distribution Fit}{3}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}The quantitle-quantile plot}{4}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Kolmogorov-Smirnov test}{5}{section.2.3}% 
+\contentsline {chapter}{\numberline {3}Gender}{6}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Male}{6}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Female}{6}{section.3.2}% 
+\contentsline {chapter}{\numberline {4}One-way ANOVA—fixed-effects}{8}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Gender}{9}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Age}{9}{section.4.2}% 
+\contentsline {chapter}{\numberline {5}Code}{11}{chapter.5}% 
